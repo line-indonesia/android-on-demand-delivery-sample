@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_name_instantmodule">instantmodule</string>
+    <string name="feature_name_separatemodule">separatemodule</string>
+    <string name="feature_name_bigvideo">bigvideo</string>
+</resources>
