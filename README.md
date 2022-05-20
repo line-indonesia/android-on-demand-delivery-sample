@@ -1,5 +1,5 @@
-# Android On Demand Delivery Demo App
-This is Demo repo for on demand delivery feature
+# Android On Demand Delivery Sample App
+This is sample repo for on demand delivery feature
 
 Table of Contents:
 1. [Pre-requisites](#pre-requisites)
